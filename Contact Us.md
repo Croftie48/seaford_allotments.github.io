@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 subtitle: Get in touch for a plot
 ---
