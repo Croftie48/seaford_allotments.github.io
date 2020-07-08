@@ -13,7 +13,7 @@ author: S.A.S
 
 navbar-links:
   About Us: "aboutme"
-  Contact: "Contact" 
+  Contact: "Contact Us" 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
