@@ -12,7 +12,8 @@ author: S.A.S
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
+  Contact: "Contact Us" 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
