@@ -54,7 +54,7 @@ The area behind the hut will get a prune soon where the overgrown memorial garde
 </p>
 
 <p align="center">
-  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/loo2.jpg">
+  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/loo2.jpeg">
 </p>
 
 Autumn/Winter 2015: a mini digger and landscape contractor root out all remaining sycamores stumps and brambles etc and level the wilderness area properly.
