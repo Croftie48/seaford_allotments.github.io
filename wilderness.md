@@ -49,6 +49,14 @@ David Bramley ( Hut Manager ) and Carol are continuing to clear the final area o
 
 The area behind the hut will get a prune soon where the overgrown memorial garden needs clearing and the Compost Loo will be sited.
 
+<p align="center">
+  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/loo1.jpeg">
+</p>
+
+<p align="center">
+  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/loo2.jpg">
+</p>
+
 Autumn/Winter 2015: a mini digger and landscape contractor root out all remaining sycamores stumps and brambles etc and level the wilderness area properly.
 
 Winter 2015: The 50 metre Vale Rd boundary area is planted with the saplings to cultivate the future ‘TRADITIONAL NATIVE STOCKPROOF STYLE HEDGE’ 
