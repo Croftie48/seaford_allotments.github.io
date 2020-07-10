@@ -7,7 +7,7 @@ Background
 
 The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".
 
-![](assets/img/wilderness1.jpg)
+![](https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg)
 
 The Wilderness is a forgotten , overgrown, out of control area along the boundary with Vale Road, that has it's own peaceful charm supporting foxes and birds but it's neglect has encouraged the dumping of rubbish there by all and sundry.
 
