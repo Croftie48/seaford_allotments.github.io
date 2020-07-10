@@ -3,7 +3,7 @@ layout: page
 title: The Wilderness Project
 ---
 
-__Background__
+**Background**
 
 The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".
 
