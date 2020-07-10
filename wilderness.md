@@ -3,7 +3,7 @@ layout: page
 title: The Wilderness Project
 ---
 
-**Background**
+##Background
 
 The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".
 
@@ -49,10 +49,9 @@ David Bramley ( Hut Manager ) and Carol are continuing to clear the final area o
 
 The area behind the hut will get a prune soon where the overgrown memorial garden needs clearing and the Compost Loo will be sited.
 
-Autumn/Winter 2015: a mini digger and landscape contractor root out all remaining sycamores stumps and brambles etc and level the wilderness area properly (see the "Clearance Chronicles" for full details).
+Autumn/Winter 2015: a mini digger and landscape contractor root out all remaining sycamores stumps and brambles etc and level the wilderness area properly.
 
-Winter 2015: The 50 metre Vale Rd boundary area is planted with the saplings to cultivate the future ‘TRADITIONAL NATIVE STOCKPROOF STYLE HEDGE’ (see the "Hedge & Fruit Tree Planting" page.
-
+Winter 2015: The 50 metre Vale Rd boundary area is planted with the saplings to cultivate the future ‘TRADITIONAL NATIVE STOCKPROOF STYLE HEDGE’ 
 Rain water stations are to be installed across the site where appropriate to help with water conservation as well as access.
 
 **The future:**
