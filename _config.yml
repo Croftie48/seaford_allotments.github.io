@@ -13,7 +13,8 @@ author: Croftie
 
 navbar-links:
   About Us: "aboutme"
-  Contact: "Contact" 
+  Contact: "Contact"
+  The Wilderness: "wilderness"
   Resources:
     - Bonfire Guidelines: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Bonfire%20Guidelines.pdf" 
   Useful Links:
