@@ -59,7 +59,3 @@ The future:
 
 In several years time when the plants are tall enough the South of England Hedge Laying Society will maintain the hedge using it as a practice site for one of their winter training days. This enables SALGS to have free hedge maintenance every few years and to have a well laid Traditional Style Stock Proof Native Hedge providing a low canopy boundary along the once neglected area, provide wildlife habitat for local creatures and the native species will provide nectar for the bees.
 
-In several years time when the plants are tall enough the South of England Hedge Laying Society will maintain the hedge using it as a practice site for one of their winter training days. This enables SALGS to have free hedge maintenance every few years and to have a well laid Traditional Style Stock Proof Native Hedge providing a low canopy boundary along the once neglected area, provide wildlife habitat for local creatures and the native species will provide nectar for the bees.
-
-
-
