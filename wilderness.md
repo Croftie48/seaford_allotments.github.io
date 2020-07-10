@@ -31,7 +31,7 @@ A project to revive this area was undertaken in earnest in 2015 culminating in t
 
 2) ‘The Compost Loo’ to replace the portoloo at the back of the Hut. This will save the monthly hire fee, be nicer to use and create compost to use as mulch either on the native hedge or for plot holders fruit bushes !. It is hoped to have disabled access.
 
-#### Action to date:
+#### Action to date
 
 August 2014; Eddie Collict ( SALGS Chair ) and plot holder Carol Whitehead formed a small working party and cleared the brambles and sycamore trees along the Vale Road boundary.
 
@@ -62,7 +62,7 @@ Autumn/Winter 2015: a mini digger and landscape contractor root out all remainin
 Winter 2015: The 50 metre Vale Rd boundary area is planted with the saplings to cultivate the future ‘TRADITIONAL NATIVE STOCKPROOF STYLE HEDGE’ 
 Rain water stations are to be installed across the site where appropriate to help with water conservation as well as access.
 
-#### The future:
+#### The future
 
 In several years time when the plants are tall enough the South of England Hedge Laying Society will maintain the hedge using it as a practice site for one of their winter training days. This enables SALGS to have free hedge maintenance every few years and to have a well laid Traditional Style Stock Proof Native Hedge providing a low canopy boundary along the once neglected area, provide wildlife habitat for local creatures and the native species will provide nectar for the bees.
 
