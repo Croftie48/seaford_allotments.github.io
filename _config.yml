@@ -7,7 +7,7 @@ title: Seaford Allotment Society
 description: Welcome to Seaford Allotment Society
 
 # Your name to show in the footer
-author: S.A.S
+author: Croftie
 
 # --- List of links in the navigation bar --- #
 
@@ -40,10 +40,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  facebook:
+  github:
+  twitter:
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -68,7 +68,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
