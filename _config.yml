@@ -15,8 +15,8 @@ navbar-links:
   About Us: "aboutme"
   Contact: "Contact" 
   Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
     - Bonfire Guidelines: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Bonfire%20Guidelines.pdf" 
+    - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
