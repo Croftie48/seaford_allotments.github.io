@@ -3,11 +3,13 @@ layout: page
 title: The Wilderness Project
 ---
 
-** Background **
+**Background**
 
 The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".
 
-![](https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg)
+<p align="center">
+  <img width="460" height="300" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg">
+</p>
 
 The Wilderness is a forgotten , overgrown, out of control area along the boundary with Vale Road, that has it's own peaceful charm supporting foxes and birds but it's neglect has encouraged the dumping of rubbish there by all and sundry.
 
@@ -19,7 +21,7 @@ A project to revive this area was undertaken in earnest in 2015 culminating in t
 
 ![](https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness3.jpg)
 
-** Wilderness Update and Compost Loo Plan **
+**Wilderness Update and Compost Loo Plan**
 
 1)‘The Wilderness Project’ to prepare the ground and plant a 100 yard traditional Native Hedge along the Vale Road chain link fence boundary this autumn/winter inclusive of wild life stations.
 
