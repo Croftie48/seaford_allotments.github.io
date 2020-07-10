@@ -13,7 +13,7 @@ author: Croftie
 
 navbar-links:
   About Us: "aboutme"
-  Contact: "Contact"
+  
   The Wilderness: "wilderness"
   Resources:
     - Bonfire Guidelines: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Bonfire%20Guidelines.pdf" 
@@ -23,6 +23,7 @@ navbar-links:
     - Garden Organic: "https://www.gardenorganic.org.uk/"
     - Pesticide Action Network Uk: "https://www.pan-uk.org/"
     - Seaford Horticultural Society: "http://www.seafordhorti.com/"
+  Contact: "Contact"
 
 # --- Logo --- #
 
