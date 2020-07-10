@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Us
 subtitle: WE LOVE PLANTS
 ---
 
