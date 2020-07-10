@@ -3,12 +3,12 @@ layout: page
 title: The Wilderness Project
 ---
 
-**Background**
+__Background__
 
 The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".
 
 <p align="center">
-  <img width="460" height="300" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg">
+  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg">
 </p>
 
 The Wilderness is a forgotten , overgrown, out of control area along the boundary with Vale Road, that has it's own peaceful charm supporting foxes and birds but it's neglect has encouraged the dumping of rubbish there by all and sundry.
@@ -17,9 +17,13 @@ In 2009 the sycamores were cut down and left to rot . A band of enthusiastic ‘
 
 A project to revive this area was undertaken in earnest in 2015 culminating in the acquirement of Lottery & Town Council funding.
 
-![](https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness2.jpg)
+<p align="center">
+  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness2.jpg">
+</p>
 
-![](https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness3.jpg)
+<p align="center">
+  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness3.jpg">
+</p>
 
 **Wilderness Update and Compost Loo Plan**
 
