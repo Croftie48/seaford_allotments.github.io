@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-### About Us
+
 Seafordians have enjoyed the benefits of allotments for over 110 years. Various sites have been used and the number of individual plots has varied, the highest being when the country was “Digging for Victory” during and after the Second World War. In common with most areas the popularity of allotments went into a steep decline which has only recently been reversed. Although we now have a waiting list for plots, some of our longer serving members can still remember when we suffered from vacant, overgrown plots and no takers.
 
 <p align="center">
