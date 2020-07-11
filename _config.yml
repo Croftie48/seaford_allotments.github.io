@@ -13,7 +13,7 @@ author: Croftie
 
 navbar-links:
   About Us: "aboutme"
-  Get A Plot: "getplot" 
+  Get A Plot: "Get plot" 
   The Wilderness: "wilderness"
   Resources:
     - Welcome Letter: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Welcome Letter.pdf" 
