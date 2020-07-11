@@ -16,10 +16,10 @@ navbar-links:
   Get A Plot: "Get plot" 
   The Wilderness: "wilderness"
   Resources:
-    - Welcome Letter: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Welcome Letter.pdf" 
+    - Welcome Letter:
     - Society Rules: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Society Rules 2015.pdf"
     - Bonfire Guidelines: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Bonfire%20Guidelines.pdf"
-    - Incident Report Form: "https://dscroft.github.io/seaford_allotments.github.io/assets/pdf/Incident Report Form.pdf" 
+    - Incident Report Form: 
   Useful Links:
     - The National Allotment Society: "https://www.nsalg.org.uk/"
     - No Dig Organic Gardening: "https://charlesdowding.co.uk/learn/"
