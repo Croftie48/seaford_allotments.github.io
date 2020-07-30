@@ -8,7 +8,7 @@ title: The Wilderness Project
 The Allotment site is primarily about cultivation but it has a very difficult area to maintain, nicknamed the "Wilderness area".
 
 <p align="center">
-  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg">
+  <img width="320" height="240" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/wilderness1.jpeg">
 </p>
 
 The Wilderness is a forgotten , overgrown, out of control area along the boundary with Vale Road, that has it's own peaceful charm supporting foxes and birds but it's neglect has encouraged the dumping of rubbish there by all and sundry.
@@ -18,11 +18,11 @@ In 2009 the sycamores were cut down and left to rot . A band of enthusiastic ‘
 A project to revive this area was undertaken in earnest in 2015 culminating in the acquirement of Lottery & Town Council funding.
 
 <p align="center">
-  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness2.jpg">
+  <img width="320" height="240" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/wilderness2.jpg">
 </p>
 
 <p align="center">
-  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/wilderness3.jpg">
+  <img width="320" height="240" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/wilderness3.jpg">
 </p>
 
 #### Wilderness Update and Compost Loo Plan
@@ -50,11 +50,11 @@ David Bramley ( Hut Manager ) and Carol are continuing to clear the final area o
 The area behind the hut will get a prune soon where the overgrown memorial garden needs clearing and the Compost Loo will be sited.
 
 <p align="center">
-  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/loo1.jpeg">
+  <img width="320" height="240" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/loo1.jpeg">
 </p>
 
 <p align="center">
-  <img width="320" height="240" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/loo2.jpeg">
+  <img width="320" height="240" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/loo2.jpeg">
 </p>
 
 Autumn/Winter 2015: a mini digger and landscape contractor root out all remaining sycamores stumps and brambles etc and level the wilderness area properly.
