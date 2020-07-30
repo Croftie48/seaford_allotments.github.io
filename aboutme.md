@@ -7,7 +7,7 @@ title: About Us
 Seafordians have enjoyed the benefits of allotments for over 110 years. Various sites have been used and the number of individual plots has varied, the highest being when the country was “Digging for Victory” during and after the Second World War. In common with most areas the popularity of allotments went into a steep decline which has only recently been reversed. Although we now have a waiting list for plots, some of our longer serving members can still remember when we suffered from vacant, overgrown plots and no takers.
 
 <p align="center">
-  <img width="400" height="300" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/disthut.jpg">
+  <img width="400" height="300" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/disthut.jpg">
 </p>
 
 The current Sutton Drove site was opened in 1923 when the annual rent was set at one shilling (5p) per rod. In 1947 the site provided 162 plots (of the total 243 in the town at that time).
@@ -17,7 +17,7 @@ A traditional plot is about 10 rods, which is about 20m x 10m, or 60’ x 30’.
 The overall management of the allotments has changed over the years, but in 2000 the responsibility was transferred from Lewes District Council to Seaford Town Council, which in turn agreed a 5 year self-management agreement with our Society. That agreement was renewed in 2005 and is due for renewal again later in 2010.
 
 <p align="center">
-  <img width="300" height="400" src="https://dscroft.github.io/seaford_allotments.github.io/assets/img/plothouse.jpg">
+  <img width="300" height="400" src="https://croftie48.github.io/seaford_allotments.github.io/assets/img/plothouse.jpg">
 </p>
 
 By managing the site ourselves we can help the Council reduce its administrative costs and ensure our members are fully consulted about all decisions. The day to day work is undertaken by a voluntary committee which is elected annually at the Society’s AGM. We are members of the National Society of Allotment and Leisure Gardeners (NSALG).
