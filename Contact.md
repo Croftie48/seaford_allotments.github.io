@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Contact Us
-subtitle: We promise we dont bite!
+subtitle:
 ---
- Sendmemail@Slartibartfast.co.uk
+admin@seafordallotment.co.uk
