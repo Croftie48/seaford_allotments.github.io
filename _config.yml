@@ -17,10 +17,8 @@ navbar-links:
   The Wilderness: "wilderness"
   The Bees: "Bee" 
   Resources:
-    - Welcome Letter:
     - Society Rules: "https://croftie48.github.io/seaford_allotments.github.io/assets/pdf/Society Rules 2015.pdf"
-    - Bonfire Guidelines: "https://croftie48.github.io/seaford_allotments.github.io/assets/pdf/Bonfire%20Guidelines.pdf"
-    - Incident Report Form: 
+    - Bonfire Guidelines: "https://croftie48.github.io/seaford_allotments.github.io/assets/pdf/Bonfire%20Guidelines.pdf" 
   Useful Links:
     - The National Allotment Society: "https://www.nsalg.org.uk/"
     - Seaford Horticultural Society: "http://www.seafordhorti.com/"
@@ -50,7 +48,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "admin@seafordallotment.co.uk"
+  email:
   facebook:
   github:
   twitter:
@@ -84,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.seafordallotments.co.uk"
+url-pretty: "www.seafordallotment.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
