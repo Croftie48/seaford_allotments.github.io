@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Contact Us
-subtitle: admin@seafordallotment.com
+subtitle:
+
+For General Enquiries please contact admin@seafordallotment.com
+
+For New Membership Enquiries Please Contact newmember@seafordallotment.com
+
 
 ---
 
