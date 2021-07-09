@@ -9,7 +9,7 @@ For General Enquiries Please Contact -
 
 For New Membership Enquiries Please Contact -
 
-     newmember@seafordallotment.com
+     Unfortunately the waiting list is currently closed.
 
 
 
